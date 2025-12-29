@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Stacking%20Ensemble-CatBoost%20%7C%20XGBoost%20%7C%20LightGBM-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Status](https://img.shields.io/badge/Achievement-FIND%20IT!%202024%20Finalist-success?style=for-the-badge)
 
 > **Team Hustler** - FIND IT! 2024 Data Analytics Competition  
