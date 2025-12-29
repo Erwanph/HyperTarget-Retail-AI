@@ -71,8 +71,11 @@ Instead of relying on one algorithm, we used a **Stacking Classifier**. Think of
 ## 📂 Repository Structure
 
 ├── Hustler_Erwan-Poltak-Halomoan.ipynb # 🧠 The Code (Notebook)
+
 ├── Report_Hustler.pdf # 📄 Full Technical Report
+
 ├── Poster_Hustler.jpg # 🎨 Visual Summary
+
 └── README.md # 📖 This file
 
 ---
